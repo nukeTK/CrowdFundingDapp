@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CrowdFundingDapp/static/css/main.fe8aef31.css",
+    "main.js": "/CrowdFundingDapp/static/js/main.7f51e96f.js",
+    "static/media/wall4.jpg": "/CrowdFundingDapp/static/media/wall4.19308f5498dd37480ee8.jpg",
+    "static/media/manager.png": "/CrowdFundingDapp/static/media/manager.a4a7adb89cbb54c49858.png",
+    "static/media/logo.png": "/CrowdFundingDapp/static/media/logo.62c193c7a584ad531e85.png",
+    "index.html": "/CrowdFundingDapp/index.html",
+    "main.fe8aef31.css.map": "/CrowdFundingDapp/static/css/main.fe8aef31.css.map",
+    "main.7f51e96f.js.map": "/CrowdFundingDapp/static/js/main.7f51e96f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe8aef31.css",
+    "static/js/main.7f51e96f.js"
+  ]
+}
